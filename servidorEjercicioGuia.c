@@ -5,7 +5,9 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <stdio.h>
-/////
+/////v1
+
+/////v2
 int main(int argc, char *argv[])
 {
 	int sock_conn, sock_listen, ret;
